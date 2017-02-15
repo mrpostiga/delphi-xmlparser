@@ -5,8 +5,8 @@ destructor.de Source Code Licence (DSL)
 A Note for developers in Germany/Austria/Switzerland/Belgium/Denmark: 
 
 	ACHTUNG!
-	In Deutschland, Österreich und den deutschsprachigen Teilen der 
-	Schweiz, Belgiens und Dänemark gilt ausschließlich die "Deutsche 
+	In Deutschland, Ã–sterreich und den deutschsprachigen Teilen der 
+	Schweiz, Belgiens und DÃ¤nemark gilt ausschlieÃŸlich die "Deutsche 
 	Fassung" der DSL, die Sie weiter unten finden.
 
 
@@ -76,59 +76,59 @@ Deutsche Fassung
 =========================================================================
 
 Das Ziel der Autoren von destructor.de ist die Bereitstellung von 
-kostenlosen Quellcodes und Tools für alle Borland Delphi-Programmierer.
+kostenlosen Quellcodes und Tools fÃ¼r alle Borland Delphi-Programmierer.
 
-Diese Lizenz ("DSL") gilt für alle Quellcodes, die auf der 
-www.destructor.de WWW-Seite im Internet abgerufen werden können und
+Diese Lizenz ("DSL") gilt fÃ¼r alle Quellcodes, die auf der 
+www.destructor.de WWW-Seite im Internet abgerufen werden kÃ¶nnen und
 von einem der destructor.de-Autoren entwickelt wurden.
 
 
 Benutzung
 -------------------------------------------------------------------------
-Sie dürfen die Quellcodes für die Entwicklung kostenloser und/oder
-verkaufter Applikationen einsetzen. Sie dürfen die Quellcodes ebenfalls
-verändern und weiter geben.
+Sie dÃ¼rfen die Quellcodes fÃ¼r die Entwicklung kostenloser und/oder
+verkaufter Applikationen einsetzen. Sie dÃ¼rfen die Quellcodes ebenfalls
+verÃ¤ndern und weiter geben.
 
 Weitergabe
 -------------------------------------------------------------------------
-Sie dürfen die Quellcodes von destructor.de kostenlos weiter geben. 
-Wenn Sie Original-Quellcodes weiter geben, müssen Sie alle Original-
+Sie dÃ¼rfen die Quellcodes von destructor.de kostenlos weiter geben. 
+Wenn Sie Original-Quellcodes weiter geben, mÃ¼ssen Sie alle Original-
 Dateien zusammen halten.
 
-Wenn Sie modifizierte *Quell*codes weiter geben, müssen diese ebenfalls
-kostenlos sein. Sie dürfen keine Gebühren für den Einsatz der 
+Wenn Sie modifizierte *Quell*codes weiter geben, mÃ¼ssen diese ebenfalls
+kostenlos sein. Sie dÃ¼rfen keine GebÃ¼hren fÃ¼r den Einsatz der 
 *Quell*codes und ihrer Derivate verlangen.
 
-Bitte berücksichtigen Sie uns, wenn Sie unsere Source Codes verwenden.
-Wenn Sie also z. B. unseren XML Parser eingesetzt haben, könnten Sie
+Bitte berÃ¼cksichtigen Sie uns, wenn Sie unsere Source Codes verwenden.
+Wenn Sie also z. B. unseren XML Parser eingesetzt haben, kÃ¶nnten Sie
 "Erstellt mit dem destructor.de XML-Parser" in Ihre About-Box, 
 Online-Hilfen oder liesmich-Dateien schreiben.
 
 
-Haftungsbeschränkung
+HaftungsbeschrÃ¤nkung
 -------------------------------------------------------------------------
-Wir stellen die Quellcodes "wie besehen" ("AS IS") zur Verfügung.
-Wir geben hiermit weder implizit noch explizit eine Garantie dafür ab,
-dass die Quellcodes für einen bestimmten Zweck geeignet sind.
-D. h. auch, dass wir keine Verantwortung für irgend welche Schäden
-übernehmen, die aus dem Einsatz der Codes (oder mit den Codes erstellten 
+Wir stellen die Quellcodes "wie besehen" ("AS IS") zur VerfÃ¼gung.
+Wir geben hiermit weder implizit noch explizit eine Garantie dafÃ¼r ab,
+dass die Quellcodes fÃ¼r einen bestimmten Zweck geeignet sind.
+D. h. auch, dass wir keine Verantwortung fÃ¼r irgend welche SchÃ¤den
+Ã¼bernehmen, die aus dem Einsatz der Codes (oder mit den Codes erstellten 
 Programmen) entstehen.
 
 Wir garantieren nicht, dass die Funktionen in den Quellcodes Ihre 
-Anforderungen erfüllen oder dass sie dauerhaft oder fehlerfrei 
+Anforderungen erfÃ¼llen oder dass sie dauerhaft oder fehlerfrei 
 funktionieren.
 
-Auf keinen Fall sind wir Ihnen gegenüber verantwortlich für irgend welche
-Schäden, Gewinnausfall oder Ausfall von Einsparungen oder andere Schäden,
-die sich aus der Benutzung oder der Unfähigkeit zur Benutzung ergeben.
+Auf keinen Fall sind wir Ihnen gegenÃ¼ber verantwortlich fÃ¼r irgend welche
+SchÃ¤den, Gewinnausfall oder Ausfall von Einsparungen oder andere SchÃ¤den,
+die sich aus der Benutzung oder der UnfÃ¤higkeit zur Benutzung ergeben.
 
-Eine Haftung gegenüber Dritten wird ebenfalls ausgeschlossen.
+Eine Haftung gegenÃ¼ber Dritten wird ebenfalls ausgeschlossen.
 
-Das komplette Risiko der Benutzung, der Ergebnisse und Leistungsfähigkeit
+Das komplette Risiko der Benutzung, der Ergebnisse und LeistungsfÃ¤higkeit
 tragen Sie alleine.
 
-Diese Einschränkungen ergeben sich vor allem daraus, dass die Codes 
-kostenfrei zur Verfügung gestellt werden.
+Diese EinschrÃ¤nkungen ergeben sich vor allem daraus, dass die Codes 
+kostenfrei zur VerfÃ¼gung gestellt werden.
 
 Sollten Sie Fragen zu dieser Lizenz haben, senden Sie bitte eine E-Mail
 an virtual@destructor.de oder abstract@destructor.de
